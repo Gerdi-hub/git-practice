@@ -5,7 +5,7 @@ public class Main {
         String text = "New world";
         System.out.println(text);
         int number =3;
-        for (int i = 0; i < number; i++) {
+        for (int i = 1; i < number; i++) {
             System.out.println(text);
         }
     }
