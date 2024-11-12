@@ -4,8 +4,8 @@ public class Main {
         System.out.println("Hello people!");
         String text = "New world";
         System.out.println(text);
-        int number =3;
-        for (int i = 0; i < number; i++) {
+        int number =4;
+        for (int i = 2; i <= number; i++) {
             System.out.println(text);
         }
     }
