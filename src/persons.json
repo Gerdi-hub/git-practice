@@ -1,0 +1,54 @@
+{"people": [
+  {
+    "firstName": "John",
+    "age": 50,
+    "address": "Tallinn",
+    "kids": [
+      {
+        "name": "Kelly",
+        "age": 6,
+        "isUnderage": true
+      },
+      {
+        "name": "Paul",
+        "age": 12,
+        "isUnderage": true
+      }
+    ]
+  },
+  {
+    "firstName": "Maria",
+    "age": 45,
+    "address": "Tallinn",
+    "kids": [
+      {
+        "name": "Anna",
+        "age": 2,
+        "isUnderage": true
+      },
+      {
+        "name": "Mari",
+        "age": 18,
+        "isUnderage": false
+      }
+    ]
+  },
+  {
+    "firstName": "Laura",
+    "age": 36,
+    "address": "Tallinn",
+    "kids": [
+      {
+        "name": "Peter",
+        "age": 1,
+        "isUnderage": true
+      },
+      {
+        "name": "Lora",
+        "age": 13,
+        "isUnderage": true
+      }
+    ]
+  }
+]}
+
